@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podRock.mp4" controls title="Podcast editado"></audio>
+    <audio src="output/podRock.mp4" controls title="Podcast editado">Ouça aqui</audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
