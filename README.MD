@@ -5,10 +5,6 @@
 />
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
 <div align="center">
     <a href="output/podRock.mp4" title="Podcast" target="_blank">Ouça aqui</a>
 </div>
