@@ -32,3 +32,23 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 🛠️ Prompts
+| Ação   | Prompt                                                                                                                                                           |
+|:-------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Conteúdo | Você é um roteirista de podcast e vamos criar um roteiro focado em estilo musical Heavy Metal brasileiro, cujo nome é "Metal Mania: Curiosidades das Lendas do Heavy Metal Brasileiro" e tem foco em curiosidades das principais bandas nacionais desse estilo.
+O formato deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[CURIOSIDADE 3]
+[CURIOSIDADE 4]
+[FINALIZAÇÃO]
+{REGRAS}
+- No bloco [INTRODUÇÃO] substitua por uma introdução similar às dos vídeos do canal Jovem Nerd
+- nos blocos [CURIOSIDADE 1],[CURIOSIDADE 2],[CURIOSIDADE 3] e [CURIOSIDADE 4] substitua por pontos em comum entre 4 bandas distintas de heavy metal brsileiro
+- NO bloco [FINALIZAÇÃO] subsitua por um agradecimento divertido, no estilo do youtuber Anderson Gaveta
+- use termos didáticos
+- o podcast será apresentado por um pessoa somente chamada PandaOne
+- o podcast deve ser curto
+{REGRAS NEGATIVAS}
+- não ultrapasse 5 minutos |
+| Título |Crie 5 titulo para esse podcast, deve ter uma vibe bem rock              |              
